@@ -39,10 +39,10 @@
   <a href="mailto:brooke-law@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### What the Tech is going on? 
+### What's New in Tech? 
 A compilation of current articles, journals, and videos that I found to be interesting and relevant to current developments in tech.
 <p align="left">
-
+<a href="https://montecarlo.ai/blog-the-future-of-big-data-analytics-and-data-science" ></a>
 </p>
 
 ### 📊 GitHub Stats
