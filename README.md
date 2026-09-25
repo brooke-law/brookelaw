@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Creating an inventory system for a food pantry**  
+🔭 &nbsp; **Data Scientist**
 🌱 &nbsp;I'm currently learning **Angular**  
-💬 &nbsp;Ask me about **R Markdown Research Briefs**  
+💬 &nbsp;Ask me about **what I'm currently reading**  
 😄 &nbsp;Pronouns: **she/her/hers**  
-⚡ &nbsp;Fun fact: **I have a mini plant greenhouse**
+⚡ &nbsp;Fun fact: **I enjoy sewing and crocheting**
 
 ### 🛠️ Tech Stack
 
@@ -43,25 +43,6 @@
 A compilation of current articles, journals, and videos that I found to be interesting and relevant to current developments in tech.
 <p align="left">
 <a href="https://montecarlo.ai/blog-the-future-of-big-data-analytics-and-data-science" ></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=brookelaw&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=brookelaw&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=brookelaw&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
