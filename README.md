@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/brookelaw">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Brooke" alt=" Hi, I'm Brooke. Welcome to my personal readme page :)
-      Welcome! I&#39;m Brooke" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Brooke" alt=" Hello! I'm Brooke 
+      Hello! I&#39;m Brooke"/>
   </a>
 </p>
 
