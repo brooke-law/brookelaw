@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/brookelaw">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=698&text=Hi, I'm Brooke. Welcome to my personal readme page :)" alt=" Hi, I'm Brooke. Welcome to my personal readme page :)"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=698&text=Hi,%20I'm%20 Brooke. Welcome to my personal readme page :)" alt=" Hi, I'm Brooke. Welcome to my personal readme page :)"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=820&height=44&lines=Exploring%20data.%20Uncovering%20patterns.%20Enabling%20change" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=820&height=44&lines=Exploring%20data.%20Uncovering%20patterns.%20Enabling%20change." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
